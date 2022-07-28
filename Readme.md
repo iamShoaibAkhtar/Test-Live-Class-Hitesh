@@ -8,4 +8,6 @@ Vercel
 
 [Vercel](https://vercel.com)
 
+[Netlify](https://codewithshoaib.netlify.app/)
+
 ![badge](https://img.shields.io/badge/Live--class-Sunday-green)
