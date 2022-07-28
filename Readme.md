@@ -1,6 +1,6 @@
-# Live class from Hitesh
+# Live class from Hitesh Choudhary
 
-## a class about hosting your webpage for free
+## A class about hosting your Webpage for Free
 
 In this class we learned about pushing code to git and github.
 Also, we talked about pushing website to netlify. but you can also use
