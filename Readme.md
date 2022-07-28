@@ -1,4 +1,4 @@
-# Live class from hitesh
+# Live class from Hitesh
 
 ## a class about hosting your webpage for free
 
